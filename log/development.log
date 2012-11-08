@@ -1874,3 +1874,38 @@ Served asset /application.js - 304 Not Modified (0ms)
 
 Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2012-11-06 19:35:40 +0100
 Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-11-08 08:08:32 +0100
+Connecting to database specified by database.yml
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (28.0ms)
+Completed 200 OK in 511ms (Views: 511.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-11-08 08:08:36 +0100
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-11-08 08:08:36 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/handlebars-1.0.rc.1.js?body=1" for 127.0.0.1 at 2012-11-08 08:08:36 +0100
+Served asset /handlebars-1.0.rc.1.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-11-08 08:08:36 +0100
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2012-11-08 08:08:36 +0100
+Served asset /main.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/templates/home_template.js?body=1" for 127.0.0.1 at 2012-11-08 08:08:36 +0100
+Served asset /templates/home_template.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-11-08 08:08:36 +0100
+Served asset /application.js - 304 Not Modified (9ms)
