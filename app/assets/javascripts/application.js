@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require handlebars.runtime
+//= require_tree ./templates
 //= require_tree .
-//=require handlebars-1.0.rc.1
